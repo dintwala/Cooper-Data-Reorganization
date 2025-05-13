@@ -1,0 +1,993 @@
+{
+  "roles": [
+    {
+      "role": "SysAdmin",
+      "roleId": 17,
+      "company": "Amazon"
+    },
+    {
+      "role": "Site Reliability Engineer",
+      "roleId": 18,
+      "company": "Amazon"
+    },
+    {
+      "role": "UX Designer",
+      "roleId": 14,
+      "company": "Amazon"
+    },
+    {
+      "role": "DevOps Engineer",
+      "roleId": 4,
+      "company": "Amazon"
+    },
+    {
+      "role": "UX Designer",
+      "roleId": 12,
+      "company": "Sandbox"
+    },
+    {
+      "role": "SysAdmin",
+      "roleId": 2,
+      "company": "Sandbox"
+    },
+    {
+      "role": "Site Reliability Engineer",
+      "roleId": 20,
+      "company": "Sandbox"
+    },
+    {
+      "role": "DevOps Engineer",
+      "roleId": 19,
+      "company": "Sandbox"
+    },
+    {
+      "role": "Software Developer",
+      "roleId": 16,
+      "company": "Sandbox"
+    },
+    {
+      "role": "UX Designer",
+      "roleId": 8,
+      "company": "Apple"
+    },
+    {
+      "role": "SysAdmin",
+      "roleId": 21,
+      "company": "Apple"
+    },
+    {
+      "role": "Site Reliability Engineer",
+      "roleId": 22,
+      "company": "Datadog"
+    },
+    {
+      "role": "SysAdmin",
+      "roleId": 6,
+      "company": "Datadog"
+    },
+    {
+      "role": "Software Developer",
+      "roleId": 15,
+      "company": "Datadog"
+    },
+    {
+      "role": "DevOps Engineer",
+      "roleId": 11,
+      "company": "Datadog"
+    },
+    {
+      "role": "UX Designer",
+      "roleId": 3,
+      "company": "Datadog"
+    },
+    {
+      "role": "Software Developer",
+      "roleId": 23,
+      "company": "Microsoft"
+    },
+    {
+      "role": "DevOps Engineer",
+      "roleId": 0,
+      "company": "Microsoft"
+    },
+    {
+      "role": "UX Designer",
+      "roleId": 9,
+      "company": "Microsoft"
+    },
+    {
+      "role": "Site Reliability Engineer",
+      "roleId": 10,
+      "company": "Microsoft"
+    },
+    {
+      "role": "Site Reliability Engineer",
+      "roleId": 24,
+      "company": "Meta"
+    },
+    {
+      "role": "DevOps Engineer",
+      "roleId": 5,
+      "company": "Meta"
+    },
+    {
+      "role": "Software Developer",
+      "roleId": 7,
+      "company": "Meta"
+    },
+    {
+      "role": "SysAdmin",
+      "roleId": 13,
+      "company": "Meta"
+    },
+    {
+      "role": "UX Designer",
+      "roleId": 1,
+      "company": "Meta"
+    }
+  ],
+  "reviews": [
+    {
+      "roleId": 0,
+      "ratingId": 79,
+      "overallScore": 5,
+      "hourlyPay": 27,
+      "userId": 6
+    },
+    {
+      "roleId": 15,
+      "ratingId": 60,
+      "overallScore": 3,
+      "hourlyPay": 48,
+      "userId": 3
+    },
+    {
+      "roleId": 17,
+      "ratingId": 32,
+      "overallScore": 5,
+      "hourlyPay": 33,
+      "userId": 6
+    },
+    {
+      "roleId": 4,
+      "ratingId": 5,
+      "overallScore": 3,
+      "hourlyPay": 46,
+      "userId": 5
+    },
+    {
+      "roleId": 23,
+      "ratingId": 30,
+      "overallScore": 1,
+      "hourlyPay": 22,
+      "userId": 3
+    },
+    {
+      "roleId": 22,
+      "ratingId": 55,
+      "overallScore": 4,
+      "hourlyPay": 35,
+      "userId": 6
+    },
+    {
+      "roleId": 24,
+      "ratingId": 63,
+      "overallScore": 3,
+      "hourlyPay": 21,
+      "userId": 6
+    },
+    {
+      "roleId": 0,
+      "ratingId": 23,
+      "overallScore": 4,
+      "hourlyPay": 43,
+      "userId": 6
+    },
+    {
+      "roleId": 24,
+      "ratingId": 31,
+      "overallScore": 4,
+      "hourlyPay": 40,
+      "userId": 2
+    },
+    {
+      "roleId": 6,
+      "ratingId": 8,
+      "overallScore": 2,
+      "hourlyPay": 34,
+      "userId": 5
+    },
+    {
+      "roleId": 0,
+      "ratingId": 80,
+      "overallScore": 3,
+      "hourlyPay": 34,
+      "userId": 7
+    },
+    {
+      "roleId": 22,
+      "ratingId": 20,
+      "overallScore": 5,
+      "hourlyPay": 49,
+      "userId": 5
+    },
+    {
+      "roleId": 15,
+      "ratingId": 1,
+      "overallScore": 4,
+      "hourlyPay": 35,
+      "userId": 0
+    },
+    {
+      "roleId": 21,
+      "ratingId": 57,
+      "overallScore": 4,
+      "hourlyPay": 49,
+      "userId": 5
+    },
+    {
+      "roleId": 4,
+      "ratingId": 29,
+      "overallScore": 4,
+      "hourlyPay": 26,
+      "userId": 0
+    },
+    {
+      "roleId": 17,
+      "ratingId": 89,
+      "overallScore": 1,
+      "hourlyPay": 35,
+      "userId": 8
+    },
+    {
+      "roleId": 1,
+      "ratingId": 86,
+      "overallScore": 1,
+      "hourlyPay": 35,
+      "userId": 9
+    },
+    {
+      "roleId": 2,
+      "ratingId": 71,
+      "overallScore": 5,
+      "hourlyPay": 48,
+      "userId": 6
+    },
+    {
+      "roleId": 16,
+      "ratingId": 91,
+      "overallScore": 3,
+      "hourlyPay": 28,
+      "userId": 6
+    },
+    {
+      "roleId": 3,
+      "ratingId": 81,
+      "overallScore": 5,
+      "hourlyPay": 26,
+      "userId": 9
+    },
+    {
+      "roleId": 6,
+      "ratingId": 14,
+      "overallScore": 1,
+      "hourlyPay": 30,
+      "userId": 5
+    },
+    {
+      "roleId": 1,
+      "ratingId": 59,
+      "overallScore": 4,
+      "hourlyPay": 36,
+      "userId": 6
+    },
+    {
+      "roleId": 6,
+      "ratingId": 69,
+      "overallScore": 1,
+      "hourlyPay": 40,
+      "userId": 3
+    },
+    {
+      "roleId": 16,
+      "ratingId": 95,
+      "overallScore": 5,
+      "hourlyPay": 37,
+      "userId": 3
+    },
+    {
+      "roleId": 24,
+      "ratingId": 70,
+      "overallScore": 5,
+      "hourlyPay": 46,
+      "userId": 1
+    },
+    {
+      "roleId": 21,
+      "ratingId": 3,
+      "overallScore": 5,
+      "hourlyPay": 39,
+      "userId": 9
+    },
+    {
+      "roleId": 7,
+      "ratingId": 0,
+      "overallScore": 4,
+      "hourlyPay": 20,
+      "userId": 7
+    },
+    {
+      "roleId": 11,
+      "ratingId": 82,
+      "overallScore": 1,
+      "hourlyPay": 40,
+      "userId": 9
+    },
+    {
+      "roleId": 4,
+      "ratingId": 42,
+      "overallScore": 1,
+      "hourlyPay": 50,
+      "userId": 9
+    },
+    {
+      "roleId": 22,
+      "ratingId": 35,
+      "overallScore": 1,
+      "hourlyPay": 41,
+      "userId": 0
+    },
+    {
+      "roleId": 13,
+      "ratingId": 66,
+      "overallScore": 1,
+      "hourlyPay": 46,
+      "userId": 3
+    },
+    {
+      "roleId": 11,
+      "ratingId": 94,
+      "overallScore": 5,
+      "hourlyPay": 50,
+      "userId": 2
+    },
+    {
+      "roleId": 10,
+      "ratingId": 46,
+      "overallScore": 3,
+      "hourlyPay": 35,
+      "userId": 8
+    },
+    {
+      "roleId": 1,
+      "ratingId": 36,
+      "overallScore": 1,
+      "hourlyPay": 31,
+      "userId": 5
+    },
+    {
+      "roleId": 4,
+      "ratingId": 52,
+      "overallScore": 3,
+      "hourlyPay": 46,
+      "userId": 0
+    },
+    {
+      "roleId": 17,
+      "ratingId": 64,
+      "overallScore": 2,
+      "hourlyPay": 42,
+      "userId": 0
+    },
+    {
+      "roleId": 10,
+      "ratingId": 72,
+      "overallScore": 1,
+      "hourlyPay": 24,
+      "userId": 2
+    },
+    {
+      "roleId": 5,
+      "ratingId": 47,
+      "overallScore": 3,
+      "hourlyPay": 47,
+      "userId": 9
+    },
+    {
+      "roleId": 15,
+      "ratingId": 62,
+      "overallScore": 3,
+      "hourlyPay": 24,
+      "userId": 7
+    },
+    {
+      "roleId": 8,
+      "ratingId": 84,
+      "overallScore": 1,
+      "hourlyPay": 33,
+      "userId": 5
+    },
+    {
+      "roleId": 13,
+      "ratingId": 90,
+      "overallScore": 5,
+      "hourlyPay": 39,
+      "userId": 2
+    },
+    {
+      "roleId": 9,
+      "ratingId": 40,
+      "overallScore": 3,
+      "hourlyPay": 41,
+      "userId": 8
+    },
+    {
+      "roleId": 18,
+      "ratingId": 54,
+      "overallScore": 2,
+      "hourlyPay": 23,
+      "userId": 8
+    },
+    {
+      "roleId": 2,
+      "ratingId": 13,
+      "overallScore": 2,
+      "hourlyPay": 39,
+      "userId": 3
+    },
+    {
+      "roleId": 0,
+      "ratingId": 78,
+      "overallScore": 5,
+      "hourlyPay": 45,
+      "userId": 0
+    },
+    {
+      "roleId": 3,
+      "ratingId": 41,
+      "overallScore": 2,
+      "hourlyPay": 21,
+      "userId": 3
+    },
+    {
+      "roleId": 12,
+      "ratingId": 98,
+      "overallScore": 3,
+      "hourlyPay": 35,
+      "userId": 3
+    },
+    {
+      "roleId": 20,
+      "ratingId": 76,
+      "overallScore": 5,
+      "hourlyPay": 32,
+      "userId": 5
+    },
+    {
+      "roleId": 7,
+      "ratingId": 73,
+      "overallScore": 3,
+      "hourlyPay": 46,
+      "userId": 0
+    },
+    {
+      "roleId": 20,
+      "ratingId": 38,
+      "overallScore": 4,
+      "hourlyPay": 36,
+      "userId": 6
+    },
+    {
+      "roleId": 21,
+      "ratingId": 83,
+      "overallScore": 5,
+      "hourlyPay": 37,
+      "userId": 8
+    },
+    {
+      "roleId": 19,
+      "ratingId": 43,
+      "overallScore": 1,
+      "hourlyPay": 32,
+      "userId": 6
+    },
+    {
+      "roleId": 19,
+      "ratingId": 17,
+      "overallScore": 3,
+      "hourlyPay": 44,
+      "userId": 0
+    },
+    {
+      "roleId": 6,
+      "ratingId": 45,
+      "overallScore": 2,
+      "hourlyPay": 43,
+      "userId": 2
+    },
+    {
+      "roleId": 3,
+      "ratingId": 34,
+      "overallScore": 1,
+      "hourlyPay": 41,
+      "userId": 4
+    },
+    {
+      "roleId": 8,
+      "ratingId": 65,
+      "overallScore": 5,
+      "hourlyPay": 42,
+      "userId": 7
+    },
+    {
+      "roleId": 8,
+      "ratingId": 51,
+      "overallScore": 1,
+      "hourlyPay": 46,
+      "userId": 2
+    },
+    {
+      "roleId": 23,
+      "ratingId": 18,
+      "overallScore": 4,
+      "hourlyPay": 33,
+      "userId": 9
+    },
+    {
+      "roleId": 18,
+      "ratingId": 58,
+      "overallScore": 4,
+      "hourlyPay": 26,
+      "userId": 4
+    },
+    {
+      "roleId": 15,
+      "ratingId": 53,
+      "overallScore": 4,
+      "hourlyPay": 21,
+      "userId": 2
+    },
+    {
+      "roleId": 13,
+      "ratingId": 75,
+      "overallScore": 2,
+      "hourlyPay": 46,
+      "userId": 7
+    },
+    {
+      "roleId": 19,
+      "ratingId": 10,
+      "overallScore": 3,
+      "hourlyPay": 45,
+      "userId": 4
+    },
+    {
+      "roleId": 19,
+      "ratingId": 27,
+      "overallScore": 1,
+      "hourlyPay": 30,
+      "userId": 5
+    },
+    {
+      "roleId": 22,
+      "ratingId": 25,
+      "overallScore": 4,
+      "hourlyPay": 31,
+      "userId": 4
+    },
+    {
+      "roleId": 22,
+      "ratingId": 50,
+      "overallScore": 5,
+      "hourlyPay": 34,
+      "userId": 2
+    },
+    {
+      "roleId": 6,
+      "ratingId": 15,
+      "overallScore": 5,
+      "hourlyPay": 36,
+      "userId": 7
+    },
+    {
+      "roleId": 24,
+      "ratingId": 33,
+      "overallScore": 5,
+      "hourlyPay": 40,
+      "userId": 5
+    },
+    {
+      "roleId": 2,
+      "ratingId": 16,
+      "overallScore": 1,
+      "hourlyPay": 31,
+      "userId": 2
+    },
+    {
+      "roleId": 20,
+      "ratingId": 24,
+      "overallScore": 4,
+      "hourlyPay": 41,
+      "userId": 9
+    },
+    {
+      "roleId": 20,
+      "ratingId": 11,
+      "overallScore": 1,
+      "hourlyPay": 40,
+      "userId": 3
+    },
+    {
+      "roleId": 17,
+      "ratingId": 6,
+      "overallScore": 4,
+      "hourlyPay": 30,
+      "userId": 4
+    },
+    {
+      "roleId": 4,
+      "ratingId": 19,
+      "overallScore": 5,
+      "hourlyPay": 47,
+      "userId": 7
+    },
+    {
+      "roleId": 23,
+      "ratingId": 39,
+      "overallScore": 5,
+      "hourlyPay": 44,
+      "userId": 7
+    },
+    {
+      "roleId": 24,
+      "ratingId": 2,
+      "overallScore": 3,
+      "hourlyPay": 44,
+      "userId": 0
+    },
+    {
+      "roleId": 13,
+      "ratingId": 74,
+      "overallScore": 5,
+      "hourlyPay": 22,
+      "userId": 3
+    },
+    {
+      "roleId": 11,
+      "ratingId": 22,
+      "overallScore": 5,
+      "hourlyPay": 43,
+      "userId": 2
+    },
+    {
+      "roleId": 11,
+      "ratingId": 77,
+      "overallScore": 3,
+      "hourlyPay": 48,
+      "userId": 0
+    },
+    {
+      "roleId": 0,
+      "ratingId": 56,
+      "overallScore": 3,
+      "hourlyPay": 47,
+      "userId": 8
+    },
+    {
+      "roleId": 3,
+      "ratingId": 67,
+      "overallScore": 1,
+      "hourlyPay": 26,
+      "userId": 4
+    },
+    {
+      "roleId": 10,
+      "ratingId": 44,
+      "overallScore": 2,
+      "hourlyPay": 33,
+      "userId": 4
+    },
+    {
+      "roleId": 16,
+      "ratingId": 61,
+      "overallScore": 1,
+      "hourlyPay": 29,
+      "userId": 7
+    },
+    {
+      "roleId": 15,
+      "ratingId": 12,
+      "overallScore": 1,
+      "hourlyPay": 35,
+      "userId": 9
+    },
+    {
+      "roleId": 18,
+      "ratingId": 88,
+      "overallScore": 5,
+      "hourlyPay": 38,
+      "userId": 9
+    },
+    {
+      "roleId": 23,
+      "ratingId": 68,
+      "overallScore": 5,
+      "hourlyPay": 34,
+      "userId": 4
+    },
+    {
+      "roleId": 1,
+      "ratingId": 37,
+      "overallScore": 3,
+      "hourlyPay": 48,
+      "userId": 4
+    },
+    {
+      "roleId": 3,
+      "ratingId": 87,
+      "overallScore": 4,
+      "hourlyPay": 27,
+      "userId": 4
+    },
+    {
+      "roleId": 20,
+      "ratingId": 21,
+      "overallScore": 1,
+      "hourlyPay": 20,
+      "userId": 1
+    },
+    {
+      "roleId": 21,
+      "ratingId": 28,
+      "overallScore": 4,
+      "hourlyPay": 46,
+      "userId": 8
+    },
+    {
+      "roleId": 8,
+      "ratingId": 85,
+      "overallScore": 5,
+      "hourlyPay": 49,
+      "userId": 7
+    },
+    {
+      "roleId": 21,
+      "ratingId": 7,
+      "overallScore": 1,
+      "hourlyPay": 34,
+      "userId": 1
+    },
+    {
+      "roleId": 18,
+      "ratingId": 92,
+      "overallScore": 5,
+      "hourlyPay": 42,
+      "userId": 8
+    },
+    {
+      "roleId": 8,
+      "ratingId": 97,
+      "overallScore": 5,
+      "hourlyPay": 50,
+      "userId": 8
+    },
+    {
+      "roleId": 5,
+      "ratingId": 93,
+      "overallScore": 4,
+      "hourlyPay": 40,
+      "userId": 1
+    },
+    {
+      "roleId": 23,
+      "ratingId": 99,
+      "overallScore": 4,
+      "hourlyPay": 22,
+      "userId": 1
+    },
+    {
+      "roleId": 16,
+      "ratingId": 96,
+      "overallScore": 3,
+      "hourlyPay": 42,
+      "userId": 1
+    },
+    {
+      "roleId": 18,
+      "ratingId": 4,
+      "overallScore": 5,
+      "hourlyPay": 40,
+      "userId": 8
+    },
+    {
+      "roleId": 2,
+      "ratingId": 9,
+      "overallScore": 3,
+      "hourlyPay": 35,
+      "userId": 1
+    },
+    {
+      "roleId": 19,
+      "ratingId": 26,
+      "overallScore": 3,
+      "hourlyPay": 36,
+      "userId": 1
+    },
+    {
+      "roleId": 5,
+      "ratingId": 49,
+      "overallScore": 4,
+      "hourlyPay": 46,
+      "userId": 1
+    },
+    {
+      "roleId": 13,
+      "ratingId": 48,
+      "overallScore": 2,
+      "hourlyPay": 20,
+      "userId": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "Carter Herman",
+      "userId": 0,
+      "reviews": [
+        1,
+        29,
+        35,
+        52,
+        64,
+        78,
+        73,
+        17,
+        2,
+        77
+      ]
+    },
+    {
+      "name": "Rishi Kanabar",
+      "userId": 1,
+      "reviews": [
+        70,
+        21,
+        7,
+        93,
+        99,
+        96,
+        9,
+        26,
+        49,
+        48
+      ]
+    },
+    {
+      "name": "Angela Weigl",
+      "userId": 2,
+      "reviews": [
+        31,
+        94,
+        72,
+        90,
+        45,
+        51,
+        53,
+        50,
+        16,
+        22
+      ]
+    },
+    {
+      "name": "Anzhuo Wang",
+      "userId": 3,
+      "reviews": [
+        60,
+        30,
+        69,
+        95,
+        66,
+        13,
+        41,
+        98,
+        11,
+        74
+      ]
+    },
+    {
+      "name": "Sarah Zhang",
+      "userId": 4,
+      "reviews": [
+        34,
+        58,
+        10,
+        25,
+        6,
+        67,
+        44,
+        68,
+        37,
+        87
+      ]
+    },
+    {
+      "name": "Cinye Cai",
+      "userId": 5,
+      "reviews": [
+        5,
+        8,
+        20,
+        57,
+        14,
+        36,
+        84,
+        76,
+        27,
+        33
+      ]
+    },
+    {
+      "name": "Christine Cho",
+      "userId": 6,
+      "reviews": [
+        79,
+        32,
+        55,
+        63,
+        23,
+        71,
+        91,
+        59,
+        38,
+        43
+      ]
+    },
+    {
+      "name": "Michelle Wu",
+      "userId": 7,
+      "reviews": [
+        80,
+        0,
+        62,
+        65,
+        75,
+        15,
+        19,
+        39,
+        61,
+        85
+      ]
+    },
+    {
+      "name": "Andrea Lee",
+      "userId": 8,
+      "reviews": [
+        89,
+        46,
+        40,
+        54,
+        83,
+        56,
+        28,
+        92,
+        97,
+        4
+      ]
+    },
+    {
+      "name": "Jordan Praissman",
+      "userId": 9,
+      "reviews": [
+        86,
+        81,
+        3,
+        82,
+        42,
+        47,
+        18,
+        24,
+        12,
+        88
+      ]
+    }
+  ]
+}
